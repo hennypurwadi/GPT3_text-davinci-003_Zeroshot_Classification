@@ -1,7 +1,6 @@
 # GPT3_text-davinci-003_Zeroshot_Classification
 GPT3_text-davinci-003_Zeroshot_Classification
 
-How do text-davinci-002 and text-davinci-003 differ?
 https://help.openai.com/en/articles/6779149-how-do-text-davinci-002-and-text-davinci-003-differ
 
 GPT-3 model family: text-davinci-003. This model builds on top of our previous InstructGPT models, and improves on a number of behaviors that we’ve heard are important to you as developers.
