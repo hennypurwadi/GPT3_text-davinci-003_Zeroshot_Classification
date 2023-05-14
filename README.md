@@ -1,6 +1,10 @@
 # GPT3_text-davinci-003_Zeroshot_Classification
 
-https://github.com/openai/openai-cookbook
+This method uses a pre-trained model to classify sentiment based on a given prompt, without any training needed.
+
+This is a quick way to classify data but might not be as accurate as other methods.
+
+Openai Cookbok link: https://github.com/openai/openai-cookbook
 
 ----------
 
