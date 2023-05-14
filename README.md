@@ -1,5 +1,4 @@
 # GPT3_text-davinci-003_Zeroshot_Classification
-GPT3_text-davinci-003_Zeroshot_Classification
 
 https://github.com/openai/openai-cookbook
 
