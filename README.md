@@ -6,9 +6,6 @@ This is a quick way to classify data but might not be as accurate as other metho
 
 ### App: https://hennypurwadi-my-ai-gallery-auto-classifierauto-classify-1b6jxv.streamlit.app/
 
-Ref:
-Openai Cookbok link: https://github.com/openai/openai-cookbook
-
 ----------
 
 GPT-3 model family: text-davinci-003. This model builds on top of our previous InstructGPT models, and improves on a number of behaviors that we’ve heard are important to you as developers.
@@ -24,3 +21,7 @@ It’s better at longer form content generation, allowing you to take on tasks t
 We can access text-davinci-003 through our API and Playground at the same price as our other Davinci base language models.
 
 https://help.openai.com/en/articles/6779149-how-do-text-davinci-002-and-text-davinci-003-differ
+
+Ref:
+Openai Cookbok link: https://github.com/openai/openai-cookbook
+
