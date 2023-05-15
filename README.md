@@ -9,7 +9,8 @@ This is a quick way to classify data but might not be as accurate as other metho
 #### https://hennypurwadi-my-ai-gallery-auto-classifierauto-classify-1b6jxv.streamlit.app/
 
 ----------
-![Image description](https://github.com/hennypurwadi/Bert_FineTune_Sentiment_Analysis/blob/Auto_Classifier_App_preview.jpg?raw=true)
+![Image description](https://github.com/hennypurwadi/GPT3_text-davinci-003_Zeroshot_Classification/blob/main/Auto_Classifier_App_preview.jpg?raw=true)
+
 
 ---
 GPT-3 model family: text-davinci-003. This model builds on top of our previous InstructGPT models, and improves on a number of behaviors that we’ve heard are important to you as developers.
