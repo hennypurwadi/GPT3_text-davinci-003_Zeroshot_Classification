@@ -4,6 +4,9 @@ This method uses a pre-trained model to classify sentiment based on a given prom
 
 This is a quick way to classify data but might not be as accurate as other methods.
 
+### App: https://hennypurwadi-my-ai-gallery-auto-classifierauto-classify-1b6jxv.streamlit.app/
+
+Ref:
 Openai Cookbok link: https://github.com/openai/openai-cookbook
 
 ----------
