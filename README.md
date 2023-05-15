@@ -4,13 +4,11 @@ This method uses a pre-trained model to classify sentiment based on a given prom
 
 This is a quick way to classify data but might not be as accurate as other methods.
 
-#### To RUN App: 
-
-#### https://hennypurwadi-my-ai-gallery-auto-classifierauto-classify-1b6jxv.streamlit.app/
+#### To RUN App: https://hennypurwadi-my-ai-gallery-auto-classifierauto-classify-1b6jxv.streamlit.app/
 
 ----------
 
-App Screenshot:
+#### App Screenshot:
 
 ![Image description](https://github.com/hennypurwadi/GPT3_text-davinci-003_Zeroshot_Classification/blob/main/Auto_Classifier_App_preview.jpg?raw=true)
 
