@@ -3,7 +3,7 @@
 This method uses a pre-trained model to classify sentiment based on a given prompt, without any training needed.
 This is a quick way to classify data but might not be as accurate as other methods.
 
-##### Note that it has limitation up to 4096 token. Please divide into chunks if the dataset exceed this limit.
+#### Note that it has limitation up to 4096 token. Please divide into chunks if the dataset exceed this limit.
 
 
 #### To RUN App: https://hennypurwadi-my-ai-gallery-auto-classifierauto-classify-1b6jxv.streamlit.app/
